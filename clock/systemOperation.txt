@@ -1,0 +1,15 @@
+cd /Users/mac/Desktop/ALLDATA/DATABASE-c/clock
+chmod a+x clocker.py
+./clocker.py
+
+cd /Users/mac/Desktop/ALLDATA/DATABASE-c/clock
+chmod a+x clock.py
+./clock.py
+
+cd /Users/mac/Desktop/ALLDATA/DATABASE-c/clock
+chmod a+x timer.py
+./timer.py
+
+cd /Users/mac/Desktop/ALLDATA/DATABASE-c/clock
+chmod a+x timer_.py
+./timer_.py
